@@ -3,7 +3,7 @@
 CoDriver is a prototype voice-first AI navigation assistant designed to act as a conversational layer on top of traditional navigation apps.
 
 ## Status
-Prototype / Work in Progress
+Work in Progress
 
 ## Features
 - Voice-based interaction with an LLM
