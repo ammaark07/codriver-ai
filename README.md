@@ -1,6 +1,6 @@
-# CoDriver AI
+# Codriver AI
 
-CoDriver is a prototype voice-first AI navigation assistant designed to act as a conversational layer on top of traditional navigation apps.
+Codriver is a prototype voice-first AI navigation assistant designed to act as a conversational layer on top of traditional navigation apps.
 
 ## Status
 Work in Progress
@@ -18,4 +18,4 @@ Work in Progress
 - Google Geolocation API
 
 ## Why I built it
-I built CoDriver to explore how conversational AI, memory, and context-awareness could improve the driving and navigation experience beyond traditional voice assistants.
+I built Codriver to explore how conversational AI, memory, and context-awareness could improve the driving and navigation experience beyond traditional voice assistants.
